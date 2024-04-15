@@ -12,6 +12,5 @@ BoostBuddy is a Discord bot that brings positivity straight to your server by se
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-Utilized to build a Discord bot, enabling automated interactions and functionalities to enhance user engagement.
 
 
